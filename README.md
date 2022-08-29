@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 <ul>
 <li>👯Estudante de Tecnologia em Sistemas da Informação.</li>
-  <li>Aluna também nos Projetos: 🔷 <strong>Generation</strong> (Java full-stack); e na 🔶 <strong>Programaria</strong> (Introdução em Programação), onde fiz este projeto: <a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>https://siteada.audreydev1.repl.co/</a>  </li>
+  <li>Aluna também nos Projetos: <li>🔷 <strong>Generation</strong> (Java full-stack);<li> e na  🔶 <strong>Programaria</strong> (Introdução em Programação), onde fiz este projeto: <a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>https://siteada.audreydev1.repl.co/</a>  </li>
 <li>Recentemente iniciei meus estudos na Ebac, curso UX e UI. ☘️</li>
 <li>Pretendo estudar também banco de dados.</li>
 <li>💬Pergunte-me sobre 1️⃣1️⃣ Stranger Things e 🗡 Senhor dos Anéis! Amo ❤️</li>
