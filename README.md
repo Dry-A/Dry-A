@@ -1,5 +1,5 @@
-<p align="center"> 👋 Hello! Welcome to my Github profile.
- My name is Audrey and my nickname is Dry-A!</p>
+<p align="center"><h3> 👋 Hello! Welcome to my Github profile.
+ My name is Audrey and my nickname is Dry-A!</p></h3>
 <p>&nbsp;</p>
 <ul>
 <li> 👩‍🎓 Estudante de Tecnologia em Sistemas da Informação.</li>
