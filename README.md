@@ -1,5 +1,5 @@
-![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
-<p align="center">Olá Mundo</p>
+<p align="center">## 👋 Hello! Welcome to my Github profile.
+### My name is Audrey and my nickname is Dry-A!</p>
 <p>&nbsp;</p>
 <ul>
 <li> 👩‍🎓 Estudante de Tecnologia em Sistemas da Informação.</li>
