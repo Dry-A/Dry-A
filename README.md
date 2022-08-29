@@ -11,8 +11,10 @@
 <li>😄Pronomes: ela/dela</li>
 <li>⚡Curiosidades: Sou fã de 🔨  Marcenaria, Acredito em Deus e em boas e más energias.</li>
 <li>São Paulo / Brasil</li>
-
 </ul>
 <p>&nbsp;</p>
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <img align="right" width="400" style src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg">
