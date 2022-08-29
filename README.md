@@ -7,7 +7,9 @@
 <li>⛳Recentemente iniciei meus estudos na Ebac, curso UX e UI. ☘️</li>
 <li>🌐Estudante de inglês há alguns anos.</li>
 <li>💬Pergunte-me sobre 🥫 Stranger Thingss e 🗡 Senhor dos Anéis! Amo ❤️</li>
-<li>📫Como chegar até mim:<code>dry01audrey@gmail.com</code></li>
+<li>📫Como chegar até mim:
+<a href="https://www.linkedin.com/in/audreyalbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/dry.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <li>😄Pronomes: ela/dela</li>
 <li>⚡Curiosidades: Sou fã de 🔨  Marcenaria, Acredito em Deus e em boas e más energias.</li>
 <li>São Paulo / Brasil</li>
@@ -18,6 +20,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
-<a href="https://www.linkedin.com/in/audreyalbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/dry.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
