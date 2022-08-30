@@ -12,6 +12,10 @@
 <li>São Paulo / Brasil</li>
 </ul>
 
+<div align="left">
+  <a href="https://github.com/Dry-A">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dry-A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
  
  <h4> Estou aprendendo</h4>
 
