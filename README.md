@@ -4,13 +4,13 @@
 <ul>
 <li> 👩‍🎓 Estudante de Tecnologia em Sistemas da Informação.</li>
   <li> 📚 Aluna também nos Projetos: 
-   
+   <ul>
     <li><strong>Generation</strong> (Java full-stack);<li><strong>Programaria</strong> (Introdução em Programação), onde fiz este projeto: 
      <ol>
       <li><a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>Site Ada</a> </li>
      <li> <a href='https://dicasparaserdev.audreydev1.repl.co/' target='_blank' class='url'>Trilhas para se tornar um DEV</a><li>
      </ol>
-  
+   </ul>
 <li>⛳Recentemente iniciei meus estudos na Ebac, curso UX e UI. ☘️</li>
 <li>🌐Estudante de inglês há alguns anos.</li>
 <li>💬Pergunte-me sobre 🥫 Stranger Thingss e 🗡 Senhor dos Anéis! Amo ❤️</li>
