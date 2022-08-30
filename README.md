@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 <ul>
 <li> 👩‍🎓 Estudante de Tecnologia em Sistemas da Informação.</li>
-  <li> 📚 Aluna também nos Projetos: 
+  <li> 📚 Aluna também nos Projetos: </li>
    <ul>
     <li><strong>Generation</strong> (Java full-stack);<li><strong>Programaria</strong> (Introdução em Programação), onde fiz este projeto: 
      <ol>
