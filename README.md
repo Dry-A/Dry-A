@@ -11,7 +11,6 @@
       <li><a href='https://dicasparaserdev.audreydev1.repl.co/' target='_blank' class='url'>Trilhas para se tornar um DEV</a></li>
      </ol>
    </ul>
-<li>⛳Recentemente iniciei meus estudos na Ebac, curso UX e UI. ☘️</li>
 <li>🌐Estudante de inglês há alguns anos.</li>
 <li>💬Pergunte-me sobre 🥫 Stranger Thingss e 🗡 Senhor dos Anéis! Amo ❤️</li>
 <li>😄Pronomes: ela/dela</li>
