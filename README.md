@@ -5,7 +5,7 @@
 <li> 👩‍🎓 Estudante de Tecnologia em Sistemas da Informação.</li>
   <li> 📚 Aluna também nos Projetos: </li>
    <ul>
-    <li><strong>Generation</strong> (Java full-stack);<li><strong>Santander Let's Code</strong> (full-stack);<li><strong>Programaria</strong> (Introdução em Programação), onde fiz estes projetos: 
+    <li><strong>Generation</strong> (Java full-stack);<li><strong>Santander Coders 2022</strong> (full-stack);<li><strong>Programaria</strong> (Introdução em Programação), onde fiz estes projetos: 
      <ol>
       <li><a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>Site Ada</a> </li>
       <li><a href='https://dicasparaserdev.audreydev1.repl.co/' target='_blank' class='url'>Trilhas para se tornar um DEV</a></li>
