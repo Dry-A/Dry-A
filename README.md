@@ -12,7 +12,7 @@
      </ol>
    </ul>
 <li>🌐Estudante de inglês há alguns anos.</li>
-<li>💬Pergunte-me sobre 🥫 Stranger Thingss e 🗡 Senhor dos Anéis! Amo ❤️</li>
+<li>💬Pergunte-me sobre 🥫 Meditação e 🗡 Senhor dos Anéis! Amo ❤️</li>
 <li>😄Pronomes: ela/dela</li>
 <li>⚡Curiosidades: Sou fã de 🔨  Marcenaria, Acredito em Deus e em boas e más energias.</li>
 <li>São Paulo / Brasil</li>
