@@ -8,14 +8,10 @@
     <li><strong>Generation</strong> (Java full-stack);</li><li><strong>Santander Coders 2022</strong> (full-stack);</li>
    </ul>
  <li>Concluí este mês o curso de Introdução a Programação pela <strong>Programaria</strong>, onde fiz estes projetos:</li> 
-     
-      <li><a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>Site Ada</a> </li>
-      <li><a href='https://dicasparaserdev.audreydev1.repl.co/' target='_blank' class='url'>Trilhas para se tornar um DEV</a></li>
-     
+      <p><a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>Site Ada</a> e <a href='https://dicasparaserdev.audreydev1.repl.co/' target='_blank' class='url'>Trilhas para se tornar um DEV</a></p>     
 <li>🌐Estudante de inglês há alguns anos.</li>
 <li>💬Pergunte-me sobre 🥫 Meditação e 🗡 Senhor dos Anéis! Amo ❤️</li>
 <li>😄Pronomes: ela/dela</li>
-<li>⚡Curiosidades: Sou fã de 🔨  Marcenaria, Acredito em Deus e em boas e más energias.</li>
 <li>São Paulo / Brasil</li>
 </ul>
 
@@ -24,10 +20,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dry-A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- <h4> Estou aprendendo</h4>
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
+<div>
+  <h1>SKILLS</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30,5" width="40"/>
+</div>
+  
+<br>
+  
+<div>
+  <h1>ESTUDANDO NO MOMENTO</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/>
+</div>
+<br>
 
 <li>📫Como chegar até mim:<br>
  
