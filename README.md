@@ -1,16 +1,17 @@
-<p align="center"><h3> 👋 Hello! Welcome to my Github profile.
- My name is Audrey and my nickname is Dry-A!</p></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!+;Sou+a+Audrey:+Desenvolvedora+Back-End+em+formação.)](https://git.io/typing-svg)
+
 <p>&nbsp;</p>
 <ul>
 <li> 👩‍🎓 Estudante de Tecnologia em Sistemas para Internet.</li>
   <li> 📚 Aluna também nos Projetos: </li>
    <ul>
-    <li><strong>Generation</strong> (Java full-stack);<li><strong>Santander Coders 2022</strong> (full-stack);<li><strong>Programaria</strong> (Introdução em Programação), onde fiz estes projetos: 
-     <ol>
+    <li><strong>Generation</strong> (Java full-stack);</li><li><strong>Santander Coders 2022</strong> (full-stack);</li>
+   </ul>
+ <li>Concluí este mês o curso de Introdução a Programação pela <strong>Programaria</strong>, onde fiz estes projetos:</li> 
+     
       <li><a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>Site Ada</a> </li>
       <li><a href='https://dicasparaserdev.audreydev1.repl.co/' target='_blank' class='url'>Trilhas para se tornar um DEV</a></li>
-     </ol>
-   </ul>
+     
 <li>🌐Estudante de inglês há alguns anos.</li>
 <li>💬Pergunte-me sobre 🥫 Meditação e 🗡 Senhor dos Anéis! Amo ❤️</li>
 <li>😄Pronomes: ela/dela</li>
