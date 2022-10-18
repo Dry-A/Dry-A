@@ -5,10 +5,10 @@
 <li> 👩‍🎓 Estudante de Tecnologia em Sistemas para Internet.</li>
   <li> 📚 Aluna também nos Projetos: </li>
    <ul>
-    <li><strong>Generation</strong> (Java full-stack);</li><li><strong>Santander Coders 2022</strong> (full-stack);</li>
+    <li><strong>Generation</strong> (Java full-stack);</li>
     <li><strong>DIO - QUÉBEC JAVA DIGITAL</strong>;</li>
    </ul>
- <li>Concluinte do curso de Fundamentos da Programação pela <strong>Programaria</strong>, onde fiz estes projetos:</li> 
+ <li>Concluinte do curso de Java Santander Coder, e de Fundamentos da Programação pela <strong>Programaria</strong>, onde fiz estes projetos:</li> 
       <p><a href='https://siteada.audreydev1.repl.co/' target='_blank' class='url'>Site Ada</a> e <a href='https://dicasparaserdev.audreydev1.repl.co/' target='_blank' class='url'>Trilhas para se tornar um DEV</a></p>     
 <li>🌐Estudante de inglês há alguns anos.</li>
 <li>💬Pergunte-me sobre 🥫 Meditação e 🗡 Senhor dos Anéis!❤️</li>
