@@ -52,4 +52,14 @@
 <a href="https://www.linkedin.com/in/audreyalbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/dry.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
+<div align="center">
+<a href="https://github.com/HarukaIonaSao">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues&show_icons=true&show_owner=true">
+  
+[![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&layout=compact&langs_count=7&theme=algolia)](https://github.com/HarukaIonaSao/ github-readme-stats)      
+ 
+</div>
+  
+
+![ Animação de cobra ](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)  
 
