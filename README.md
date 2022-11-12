@@ -33,13 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/>
-</div>
-  
-<br>
-  
-<div>
-  <h1 align="center"> ESTUDANDO NO MOMENTO </h1>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="30" width="40"/>
