@@ -1,29 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)(e)!+;Sou+a+Audrey:+Desenvolvedora+Full-Stack)](https://git.io/typing-svg)
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou a Audrey </h1>
 
-<p>&nbsp;</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<ul>
-  
-<li> 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Mackenzie.</li>
-  
-<li> 🚺 Desenvolvedora Full-Stack pela Generation Brasil.</li>
-  
-<li>😄Pronomes: ela/dela</li>
-  
-<li>🚩São Paulo / Brasil</li>
+<img align="left" src="https://i.imgur.com/c7Nv5wz.jpg" width="320px"> Enquanto eu faço meu curso superior de Análise e Desenvolvimento de Sistemas pela Mackenzie, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, javaspring, React, C# e .Net. Minha formação inicial foi em marketing e eu utilizei tudo o que aprendi em meu último trabalho, no Banco do Brasil, o qual fiquei quase oito anos. Faço trabalho voluntário com aulas de alfabetização e reforço de matemática para crianças de baixa-renda do meu bairro. 
+Estou estudando programação desde o início de 2022 e foi a melhor decisão que já tomei. 
+Hoje, além da faculdade faço o curso da Ebac - especialista em Java, o qual ganhei bolsa integral após vencer um desafio de Spring boot com Java e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo. Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
-</ul>
-
-
-
-<br>
-<div align="center">
-  <a href="https://github.com/Dry-A">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dry-A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=7&color=true&theme=dracula"/>
+**********
+<div align="left">
+🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
+💬 Posso responder perguntas sobre <strong>JavaScript, React, Nodejs e MySQL</strong><br>
+🛴 Fun fact <strong>Amo Stranger Things e Senhor dos Anéis</strong></h4> 
 </div>
- 
-<br>
+
+***************	
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dry-A&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=8&theme=radical"/>
+<div>	
 
 <div>
   <h1 align="center"> SKILLS </h1>
