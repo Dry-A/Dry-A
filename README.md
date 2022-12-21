@@ -36,7 +36,10 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
 
 <li>📫Como chegar até mim:<br>
  
+  <a href="https://linktr.ee/audrey_projetos" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/audreyalbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/dry.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  
  
 
