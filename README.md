@@ -1,14 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)(e)!+;Sou+a+Audrey:+Dev+Java+Full-Stack+em+formação.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)(e)!+;Sou+a+Audrey:+Desenvolvedora+Full-Stack)](https://git.io/typing-svg)
 
 <p>&nbsp;</p>
+
 <ul>
+  
 <li> 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Mackenzie.</li>
-  <li> 🚺 Desenvolvedora Full-Stack pela Generation Brasil.</li>
- 
-   <ul>
+  
+<li> 🚺 Desenvolvedora Full-Stack pela Generation Brasil.</li>
+  
 <li>😄Pronomes: ela/dela</li>
+  
 <li>São Paulo / Brasil</li>
+
 </ul>
+
+
 
 <br>
 <div align="center">
