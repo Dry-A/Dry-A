@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="left" src="https://i.imgur.com/c7Nv5wz.jpg" width="320px"> Enquanto eu faço meu curso superior em Análise e Desenvolvimento de Sistemas pela Mackenzie, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, Javascript, React, C# e .Net. Minha formação inicial foi em Marketing e eu utilizei tudo o que aprendi em meu último trabalho, no Banco do Brasil, o qual fiquei por quase oito anos. Faço trabalho voluntário com aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. 
+<img align="left" src="https://i.imgur.com/c7Nv5wz.jpg" width="320px"> Enquanto eu faço meu curso superior em Análise e Desenvolvimento de Sistemas pela Mackenzie, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, Javascript, Typescript, React, C# e .Net. Minha formação inicial foi em Marketing e eu utilizei tudo o que aprendi em meu último trabalho, no Banco do Brasil, o qual fiquei por quase oito anos. Faço trabalho voluntário com aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. 
 Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. 
 Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual ganhei bolsa integral após vencer um desafio de Spring boot, e outros cursos na área e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo. Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
 **********
 <div align="left">
 🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
-💬 Posso responder perguntas sobre <strong>JavaScript, React, Nodejs e MySQL</strong><br>
+💬 Posso responder perguntas sobre <strong>Java, React, e MySQL</strong><br>
 🛴 Fun fact <strong>Amo Stranger Things e Senhor dos Anéis</strong></h4> 
 </div>
 
