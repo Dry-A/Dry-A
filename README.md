@@ -44,5 +44,8 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
 <a href="https://www.instagram.com/dry.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   
- 
+ <p align="center"> 
+    Profile Views<br>
+   <img src="https://profile-counter.glitch.me/Dry-A/count.svg" />
+  </p>
 
