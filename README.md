@@ -7,6 +7,9 @@ Decidi estudar programação desde o início de 2022 e foi a melhor decisão que
 Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual ganhei bolsa integral após vencer um desafio de Spring boot, e outros cursos na área e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo. Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
 **********
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dry-A&bg_color=0a0005&color=f52ea2&line=b0307b&point=f4f0f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 <div align="left">
 🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
 💬 Posso responder perguntas sobre <strong>Java, React, e MySQL</strong><br>
