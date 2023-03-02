@@ -39,11 +39,7 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
-<br>
-  
-  ![Snake animation](https://github.com/Dry-A/Dry-A/blob/output/github-contribution-grid-snake.svg)
-
-  
+<br> 
  
 <li>📫Como chegar até mim:<br>
  
