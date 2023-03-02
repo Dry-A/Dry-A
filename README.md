@@ -41,7 +41,7 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
 </div>
 <br>
   
-  ![Snake animation](https://github.com/https://github.com/Dry-A /https://github.com/Dry-A/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Dry-A/Dry-A/blob/output/github-contribution-grid-snake.svg)
 
 <li>📫Como chegar até mim:<br>
  
