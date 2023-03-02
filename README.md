@@ -41,8 +41,7 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
 </div>
 <br>
   
-  ![Snake animation](https://github.com/Dry-A/Dry-A/blob/output/github-contribution-grid-snake.svg)
-
+ 
 <li>📫Como chegar até mim:<br>
  
   <a href="https://linktr.ee/audrey_projetos" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
