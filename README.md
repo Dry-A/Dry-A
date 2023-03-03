@@ -2,9 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Análise e Desenvolvimento de Sistemas, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, Javascript, Typescript, React, C# e .Net. Minha formação inicial foi em Marketing e eu utilizei tudo o que aprendi em meu último trabalho, no Banco do Brasil, o qual fiquei por quase oito anos. Faço trabalho voluntário com aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. 
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Análise e Desenvolvimento de Sistemas, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, Sql e Ruby.
+  Minha formação inicial foi em Marketing e tudo o que eu aprendi utilizei em meu último trabalho que foi no Banco do Brasil. Lá fiquei por quase oito anos. 
+  Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!
 Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. 
-Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual ganhei bolsa integral após vencer um desafio de Spring boot, e outros cursos na área e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo. Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
+Hoje, além da faculdade, faço o curso da Ebac - Back-end em Java, o qual obtive bolsa integral por vencer um desafio de Spring boot. Faço outros cursos na área, como o One da Oracle e Alura, Maratona Java Virado no Jiraya e aprendi muito mais do que eu acreditava ser possível nesses meses e isso me deixa muito feliz. 
+Meus próximos passos são:
+<p>1.Me firmar como uma desenvolvedora de sucesso; </p>
+<p>2.Criar ferramentas para conectar mulheres que também querem entrar para a área tech; </p>
+<p>3.Aprender mais sobre Microsserviços, Docker, Kubernets e Quarkus.</p>
 
 **********
 
