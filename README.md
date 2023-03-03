@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="left" src="https://i.imgur.com/c7Nv5wz.jpg" width="320px"> Enquanto eu faço meu curso superior em Análise e Desenvolvimento de Sistemas, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, Javascript, Typescript, React, C# e .Net. Minha formação inicial foi em Marketing e eu utilizei tudo o que aprendi em meu último trabalho, no Banco do Brasil, o qual fiquei por quase oito anos. Faço trabalho voluntário com aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. 
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Análise e Desenvolvimento de Sistemas, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, Javascript, Typescript, React, C# e .Net. Minha formação inicial foi em Marketing e eu utilizei tudo o que aprendi em meu último trabalho, no Banco do Brasil, o qual fiquei por quase oito anos. Faço trabalho voluntário com aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. 
 Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. 
 Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual ganhei bolsa integral após vencer um desafio de Spring boot, e outros cursos na área e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo. Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
@@ -10,7 +10,8 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dry-A&bg_color=0a0005&color=f52ea2&line=b0307b&point=f4f0f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-<div align="left">
+<div align="center">
+   <img width="300px" align="left" src="https://i.imgur.com/0FI8zK9.png">
 🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
 💬 Posso responder perguntas sobre <strong>Java, React, e MySQL</strong><br>
 🛴 Fun fact <strong>Amo Stranger Things e Senhor dos Anéis</strong></h4> 
@@ -26,6 +27,7 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
 <div>
   <h1 align="center"> SKILLS </h1>
  
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40"/>
@@ -40,6 +42,8 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 <br> 
+  
+  
  
 <li>📫Como chegar até mim:<br>
  
@@ -48,8 +52,5 @@ Hoje, além da faculdade, faço o curso da Ebac - especialista em Java, o qual g
 <a href="https://www.instagram.com/dry.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   
- <p align="center"> 
-    Profile Views<br>
-   <img src="https://profile-counter.glitch.me/Dry-A/count.svg" />
-  </p>
+
 
