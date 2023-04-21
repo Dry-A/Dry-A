@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Análise e Desenvolvimento de Sistemas, participo de eventos sobre a presença de mulheres na área tech, bootcamps, como da Generation Brasil e cursos de linguagem Java, Spring, Sql e Ruby.
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech, bootcamps, como da Generation Brasil e cursos de linguagem Java, Spring, Sql e Ruby.
   Minha formação inicial foi em Marketing e tudo o que eu aprendi utilizei em meu último trabalho que foi no Banco do Brasil. Lá fiquei por quase oito anos. 
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!
 Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. 
