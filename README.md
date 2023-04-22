@@ -27,7 +27,7 @@ Meus próximos passos são:
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Drey-A&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Drey-A&layout=compact&langs_count=8&theme=radical"/>
 <div>	
 
 <div>
