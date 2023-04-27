@@ -6,7 +6,7 @@
   Minha formação inicial foi em Marketing e tudo o que eu aprendi utilizei em meu último trabalho que foi no Banco do Brasil. Lá fiquei por quase oito anos. 
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!
 Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. 
-Hoje, além da faculdade, faço o curso da Ebac - Back-end em Java, o qual obtive bolsa integral por vencer um desafio de Spring boot. Faço outros cursos na área, como o One da Oracle e Alura, Maratona Java Virado no Jiraya e aprendi muito mais do que eu acreditava ser possível nesses meses e isso me deixa muito feliz. 
+Hoje, além da faculdade, faço o curso da Ebac - Back-end em Java, o qual obtive bolsa integral por vencer um desafio de Spring boot. Faço outros cursos na área, como o One da Oracle e Alura, Java Fundamentos da Fiap, Maratona Java Virado no Jiraya e aprendi muito mais do que eu acreditava ser possível nesses meses e isso me deixa muito feliz. 
 Meus próximos passos são:
 <p>1.Me firmar como uma desenvolvedora de sucesso; </p>
 <p>2.Criar ferramentas para conectar mulheres que também querem entrar para a área tech; </p>
