@@ -14,12 +14,12 @@ Meus próximos passos são:
 
 **********
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Drey-A&bg_color=0a0005&color=f52ea2&line=b0307b&point=f4f0f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dry-A&bg_color=0a0005&color=f52ea2&line=b0307b&point=f4f0f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div align="center">
    <img width="300px" align="left" src="https://i.imgur.com/0FI8zK9.png">
 🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
-💬 Posso responder perguntas sobre <strong>Java, React, e MySQL</strong><br>
+💬 Posso responder perguntas sobre <strong>Java,Spring, e MySQL</strong><br>
 🛴 Fun fact <strong>Amo Stranger Things e Senhor dos Anéis</strong></h4> 
 </div>
 
@@ -27,7 +27,7 @@ Meus próximos passos são:
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Drey-A&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Drey-A&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=8&theme=radical"/>
 <div>	
 
 <div>
