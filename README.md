@@ -2,15 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech, bootcamps, como da Generation Brasil e cursos de linguagem Java, Spring, Sql e Ruby.
-  Minha formação inicial foi em Marketing e tudo o que eu aprendi utilizei em meu último trabalho que foi no Banco do Brasil. Lá fiquei por quase oito anos. 
-  Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!
-Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. 
-Hoje, além da faculdade, faço o curso da Ebac - Back-end em Java, o qual obtive bolsa integral por vencer um desafio de Spring boot. Faço outros cursos na área, como o One da Oracle e Alura, Java Fundamentos da Fiap, Maratona Java Virado no Jiraya e aprendi muito mais do que eu acreditava ser possível nesses meses e isso me deixa muito feliz. 
-Meus próximos passos são:
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Sistemas para Internet, participo também de eventos sobre a presença de mulheres na área tech, bootcamps, como da Generation Brasil e faço cursos de Java, Spring, Sql e Ruby.<br>
+  Também  administro algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1023 participantes. Conto com a ajuda de outros 9 super administradores para esta tarefa incrível.<br>
+  Minha formação inicial foi em Marketing e apliquei tudo que aprendi em meu último trabalho no Banco do Brasil e lá estive por 7 anos. <br>
+  Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
+  Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. <br>
+Hoje, além da faculdade, faço e recomendo o curso da Ebac - Full Stack Java, o qual ganhei uma bolsa integral por vencer um desafio de Spring boot. <br>Fiz outros cursos na área, como :
+
+<ul>
+  <li>One da Oracle e Alura, </li>
+  <li>Java Fundamentos da Fiap,</li>
+  <li>Start da Capgemini - Trilha Java,</li>
+  <li>Maratona Java Virado no Jiraya</li>
+</ul>
+    e aprendi muito mais do que eu acreditava ser possível nesses meses e isso me deixa muito feliz. 
+    <br><br>
+Meus próximos passos são:<br>
 <p>1.Me firmar como uma desenvolvedora de sucesso; </p>
-<p>2.Criar ferramentas para conectar mulheres que também querem entrar para a área tech; </p>
-<p>3.Aprender mais sobre Microsserviços, Docker, Kubernets e Quarkus.</p>
+<p>2.Criar ferramentas para conectar mulheres que também queiram entrar para a área tech; </p>
+<p>3.Aprender mais sobre Microsserviços, Docker e Cloud.</p>
 
 **********
 
