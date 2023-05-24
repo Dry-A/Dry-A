@@ -26,7 +26,7 @@ Meus próximos passos são:<br>
 
 <div align="center">
    <img width="300px" align="left" src="https://i.imgur.com/0FI8zK9.png">
-🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
+🚀 Atualmente, estou aprendendo <strong>Cloud e Microsserviços</strong><br>
 💬 Posso responder perguntas sobre <strong>Java,Spring, e MySQL</strong><br>
 🛴 Fun fact <strong>Amo Stranger Things e Senhor dos Anéis</strong></h4> 
 </div>
