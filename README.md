@@ -24,8 +24,6 @@ Meus próximos passos são:<br>
 
 **********
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dry-A&bg_color=0a0005&color=f52ea2&line=b0307b&point=f4f0f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
 <div align="center">
    <img width="300px" align="left" src="https://i.imgur.com/0FI8zK9.png">
 🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
