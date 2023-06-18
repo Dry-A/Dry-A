@@ -7,13 +7,13 @@
   Minha formação inicial foi em Marketing e apliquei tudo que aprendi em meu último trabalho no Banco do Brasil e lá estive por 7 anos. <br>
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
   Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. <br>
-Hoje, além da faculdade, faço e recomendo o curso da Ebac - Full Stack Java, o qual ganhei uma bolsa integral por vencer um desafio de Spring boot. <br>Fiz outros cursos na área, como :
+Hoje, além da faculdade, faço e recomendo o curso da Ebac - Full Stack Java, o qual ganhei uma bolsa integral por vencer um desafio de Spring boot e também o Maratona Java do DevDojo <br>Fiz outros cursos na área, como :
 
 <ul>
   <li>One da Oracle e Alura, </li>
   <li>Java Fundamentos da Fiap,</li>
   <li>Start da Capgemini - Trilha Java,</li>
-  <li>Maratona Java Virado no Jiraya</li>
+  
 </ul>
     e aprendi muito mais do que eu acreditava ser possível nesses meses e isso me deixa muito feliz. 
     <br><br>
