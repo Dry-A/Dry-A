@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Enquanto eu faço meu curso superior em Sistemas para Internet, participo também de eventos sobre a presença de mulheres na área tech, bootcamps, como da Generation Brasil e faço cursos de Java, Spring, Sql e Ruby.<br>
-  Também  administro algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1023 participantes. Conto com a ajuda de outros 9 super administradores para esta tarefa incrível.<br>
-  Minha formação inicial foi em Marketing e apliquei tudo que aprendi em meu último trabalho no Banco do Brasil e lá estive por 7 anos. <br>
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech, Finalizei o bootcamp da Generation Brasil e faço cursos na área da tecnologia.<br>
+  Administro algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1590 participantes. Para isssoo conto com a ajuda de outros 7 super administradores para esta tarefa incrível.<br>
+  Minha formação inicial foi em Marketing e apliquei tudo que aprendi no Banco do Brasil e lá estive por 7 anos. <br>
+  Hoje trabalho na área tech, no Itau.
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
-  Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei. <br>
-Hoje, além da faculdade, faço e recomendo o curso da Ebac - Full Stack Java, o qual ganhei uma bolsa integral por vencer um desafio de Spring boot e também o Maratona Java do DevDojo <br>Fiz outros cursos na área, como :
+  Decidi estudar programação no meio de 2022 e foi a melhor decisão que já tomei. <br>
+  Hoje, além da faculdade, faço e recomendo o curso da Ebac - Full Stack Java, e por essse curso tenho um olhar epecial. Ganhei uma bolsa integral por vencer um desafio de Spring boot 
+Recomendo fortemente o curso Maratona Java do DevDojo <br>Fiz outros cursos na área, como :
 
 <ul>
   <li>One da Oracle e Alura, </li>
