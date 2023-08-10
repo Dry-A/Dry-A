@@ -5,18 +5,18 @@
 <img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech e faço outros cursos na área. 
 <br>
 Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil em setembro de 2022 e ganhei um bolsa para Java Full-Stack pela Ebac.<br>
-https://ebaconline.referralrock.com/l/AUDREYALBU25/ <br>
+🖐🏼 https://ebaconline.referralrock.com/l/AUDREYALBU25/ <br>
   Criei algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1686 participantes. 7 super administradores me ajudam nesta tarefa incrível que foi iniciada em janeiro deste ano.<br>
-  Minha formação inicial foi em Marketing e apliquei tudo que aprendi no meu penúltimo emprego e lá estive por 7 anos. <br>
+  Minha formação inicial foi em Marketing e apliquei tudo que aprendi no meu penúltimo emprego e lá estive por 7 anos. <br> 🎈
  Atualmente trabalho na área tech, no Itau. <br>
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
   Decidi estudar programação no meio de 2022 e foi a melhor decisão que já tomei. Eu sempre quis entrar para esta área, porém não me via representada.<br>
   Um curso gratuito que recomendo muito é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br> Finalizei outros cursos na área, como:
 
 <ul><strong> 
-  <li>One da Oracle e Alura, </li>
-  <li>Java Fundamentos da Fiap,</li>
-  <li>Start da Capgemini - Trilha Java,</li>
+  <li>🛩 One da Oracle e Alura, </li>
+  <li>🚀 Java Fundamentos da Fiap,</li>
+  <li>🏍 Start da Capgemini - Trilha Java,</li>
   </strong>
 </ul>
     E aprendi muito mais do que eu acreditava ser possível nesse ano e isso me deixa muito feliz. 
