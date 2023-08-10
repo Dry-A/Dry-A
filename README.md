@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
 <img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech, Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil  e faço cursos na área da tecnologia.<br>
-  Sou administradora e criadora de algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1590 participantes. Para isssoo conto com a ajuda de outros 7 super administradores para esta tarefa incrível.<br>
+  Sou administradora e criadora de algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1590 participantes. Conto com a ajuda de outros 7 super administradores para esta tarefa incrível.<br>
   Minha formação inicial foi em Marketing e apliquei tudo que aprendi no meu penúltimo emprego e lá estive por 7 anos. <br>
  Atualmente trabalho na área tech, no Itau.
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
