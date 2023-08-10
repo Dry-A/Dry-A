@@ -2,23 +2,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech, Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil  e faço cursos na área da tecnologia.<br>
-  Sou administradora e criadora de algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1590 participantes. Conto com a ajuda de outros 7 super administradores para esta tarefa incrível.<br>
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech e faço outros cursos na área. 
+<br>
+Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil em setembro de 2022 e ganhei um bolsa para Java Full-Stack pela Ebac.<br>
+https://ebaconline.referralrock.com/l/AUDREYALBU25/ <br>
+  Criei algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1686 participantes. 7 super administradores me ajudam nesta tarefa incrível que foi iniciada em janeiro deste ano.<br>
   Minha formação inicial foi em Marketing e apliquei tudo que aprendi no meu penúltimo emprego e lá estive por 7 anos. <br>
- Atualmente trabalho na área tech, no Itau.
+ Atualmente trabalho na área tech, no Itau. <br>
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
-  Decidi estudar programação no meio de 2022 e foi a melhor decisão que já tomei. <br>
-  Hoje faço e recomendo o curso da Ebac - Full Stack Java, e por essse curso tenho um olhar epecial. Ganhei uma bolsa integral por vencer um desafio de Spring boot. Um curso gratuito que recomendo muito é o Maratona Java do DevDojo <br> Finalizei outros cursos na área, como:
+  Decidi estudar programação no meio de 2022 e foi a melhor decisão que já tomei. Eu sempre quis entrar para esta área, porém não me via representada.<br>
+  Um curso gratuito que recomendo muito é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br> Finalizei outros cursos na área, como:
 
-<ul>
+<ul><strong> 
   <li>One da Oracle e Alura, </li>
   <li>Java Fundamentos da Fiap,</li>
   <li>Start da Capgemini - Trilha Java,</li>
-  
+  </strong>
 </ul>
-    e aprendi muito mais do que eu acreditava ser possível nesses meses e isso me deixa muito feliz. 
+    E aprendi muito mais do que eu acreditava ser possível nesse ano e isso me deixa muito feliz. 
     <br><br>
-Meus próximos passos são:<br>
+<strong>Meus próximos passos são: </strong><br>
 <p>1.Me firmar como uma desenvolvedora de sucesso; </p>
 <p>2.Criar ferramentas para conectar mulheres que também queiram entrar para a área tech; </p>
 <p>3.Aprender mais sobre Microsserviços, Docker e Cloud.</p>
