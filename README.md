@@ -15,6 +15,7 @@ Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil em setem
 
 <ul><strong> 
   <li>🛩 One da Oracle e Alura, </li>
+  <li>👩🏻‍🚀 Front-end I e II - Programaria,</li>
   <li>🚀 Java Fundamentos da Fiap,</li>
   <li>🏍 Start da Capgemini - Trilha Java,</li>
   </strong>
