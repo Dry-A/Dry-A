@@ -29,30 +29,25 @@ Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil em setem
 
 **********
 
-<div align="center">
-   <img width="300px" align="left" src="https://i.imgur.com/0FI8zK9.png">
-🚀 Atualmente, estou aprendendo <strong>Cloud e Microsserviços</strong><br>
-💬 Posso responder perguntas sobre <strong>Java,Spring, e MySQL</strong><br>
-🛴 Fun fact <strong>Amo Stranger Things e Senhor dos Anéis</strong></h4> 
-</div>
+<div  align="center">
+<h2> MINHAS ESTATÍSTICAS </h2>
+	
+![Minhas Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=Dry-A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+	  
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=8&theme=dracula"/>
 
-***************	
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dry-A&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=8&theme=radical"/>
 <div>	
 
 <div>
-  <h1 align="center"> SKILLS </h1>
+  <h2 align="center"> SKILLS </h2>
  
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="40"/>
-   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="30" width="40"/
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30,5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
@@ -60,14 +55,12 @@ Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil em setem
     
 </div>
 <br> 
-  
-  
  
-<li>📫Como chegar até mim:<br>
+ <h2 align="center"> COMO CHEGAR ATÉ MIM </h2>
  
-  <a href="https://linktr.ee/audrey_projetos" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+<a href="https://linktr.ee/audrey_projetos" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/audrey-albuquerque-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/dry.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.duolingo.com/profile/audrey_dev" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
   
   
 
