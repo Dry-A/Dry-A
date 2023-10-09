@@ -59,7 +59,7 @@ Me formei Desenvolvedora Web em Java pelo bootcamp da Generation Brasil em setem
  <h2 align="center"> COMO CHEGAR ATÉ MIM </h2>
  
 <a href="https://linktr.ee/audrey_projetos" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/audrey-albuquerque-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/audrey-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.duolingo.com/profile/audrey_dev" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
   
   
