@@ -7,7 +7,7 @@
 Me formei Desenvolvedora Web em Java pelo bootcamp da <strong>Generation Brasil</strong> em setembro de 2022 e ganhei um bolsa para Java Full-Stack pela Ebac.<br>
 🖐🏼 https://ebaconline.referralrock.com/l/AUDREYALBU25/ <br>
   Criei algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1961 participantes, 26 grupos e 9 super administradores me ajudam nesta tarefa incrível que foi iniciada em janeiro deste ano.<br>
-Minha formação inicial foi em Marketing e trabalhei por por 7 anos na área. <br> 🎈
+Minha formação inicial foi em Marketing e trabalhei por 7 anos na área. <br> 🎈
  Atualmente trabalho na área tech, no Itau. <br>
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
   Decidi estudar programação em junho de 2022 e foi a melhor decisão que já tomei pois desejava muito entrar para esta área, mas não me via representada.<br>
