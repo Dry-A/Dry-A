@@ -22,12 +22,16 @@ Minha formação inicial foi em Marketing e trabalhei por 7 anos na área. <br> 
 </ul>
     E aprendi muito mais do que eu acreditava ser possível nesse ano e isso me deixa muito feliz. 
     <br><br>
+<img align="left" width="150px" style="margin-top:-20px" src="https://i.imgur.com/OSFo4dQ.jpg">
+    
 <strong>Meus próximos passos são: </strong><br>
 <p>1.Me firmar como uma desenvolvedora de sucesso; </p>
 <p>2.Criar ferramentas para conectar mulheres que também queiram entrar para a área tech; </p>
 <p>3.Aprender mais sobre Microsserviços, Docker e Cloud.</p>
 
 **********
+
+
 
 <div  align="center">
 <h2> MINHAS ESTATÍSTICAS </h2>
