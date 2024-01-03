@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/6rLgAcq.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech e faço outros cursos na área. 
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/f3o8N4L.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech e faço outros cursos na área. 
 <br>
 Me formei Desenvolvedora Web em Java pelo bootcamp da <strong>Generation Brasil</strong> em setembro de 2022 e ganhei um bolsa para Java Full-Stack pela Ebac.<br>
 🖐🏼 https://ebaconline.referralrock.com/l/AUDREYALBU25/ <br>
