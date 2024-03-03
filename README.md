@@ -2,25 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/f3o8N4L.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech e faço outros cursos na área. 
+<img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/f3o8N4L.png"> Atualmente curso Superior em Sistemas para Internet, participo de eventos sobre a presença de mulheres na área tech e estou sempre fazendo cursos na área. 
 <br>
 Me formei Desenvolvedora Web em Java pelo bootcamp da <strong>Generation Brasil</strong> em 2022 e ganhei um bolsa para Java Full-Stack pela Ebac no mesmo ano .<br>
 
- Ao longo desse tempo criei duas comunidades e grupos na área tech para que os inciantes pudessem se conectar aos devs mais experientes, e tem dado muito certo.
-As comunidades em que sou mais ativa são: Conecta Java e a Comunidade de alunos da Ebac - que hoje tem mais de 2000 participantes, 26 grupos e 9 super administradores, que também são alunos e me ajudam nesta tarefa incrível que foi iniciada em janeiro de 2023.<br>
-Minha formação inicial foi em Marketing e trabalhei por 7 anos na área. <br> 🎈
- Atualmente trabalho como desenvolvedora, no Itau. <br>
+ Ao longo desse tempo criei duas comunidades e grupos na área tech para que os inciantes pudessem se conectar aos devs mais experientes, e tem dado muito certo. <br>
+As comunidades em que sou mais ativa são: Conecta Java e a Comunidade de alunos da Ebac - que hoje tem mais de 2000 participantes, 26 grupos e 9 super administradores, que também são alunos e me ajudam nesta tarefa incrível que foi iniciada em janeiro de 2023.<br><br>
+Minha formação inicial foi em Marketing e trabalhei por 7 anos na área de negócios do Banco do Brasil. <br><br> 🎈
+ Atualmente trabalho como desenvolvedora no Itau, tendo contato com aws, lambdas, s3, python, javascript, stepFunctions, awstoolkit, testes unitario e integrados, debug e desenvolvendo cada vez mais meu pensamento computacional. <br><br>
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
   Decidi estudar programação em junho de 2022 e foi a melhor decisão que já tomei pois desejava muito entrar para esta área.<br>
-  Sobre Java, recomendo um curso gratuito que é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br>.
-  Finalizei alguns cursos na área de back-end, da Fiap, Programaria, Star da Capgemini, One, da Oracle e Alura, Docker, Javascrit focada em backend e agora estou estudando Python e AWS.
-	
+  Sobre Java, recomendo um curso gratuito que é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br><br>
+  Finalizei alguns cursos na área de back-end, da Fiap, Programaria, Start da Capgemini, One, da Oracle e Alura, Docker.
+Atualmente estou estudando Python, AWS e Javascrit para backend (com Node) com o Filipe Deschamps no <strong>curso.dev</strong> (recomendadíssimo).
   </strong>
 </ul>
-    E aprendi muito mais do que eu acreditava ser possível nesse ano e isso me deixa muito feliz. 
+ Aprendi muito mais do que eu acreditava ser possível nesse um ano e meio e isso me deixa muito feliz. 
     <br><br>
-
-    
 <strong>Meus próximos passos são: </strong><br><br>
 <img align="left" width="150px" style="margin-top:-20px" src="https://i.imgur.com/OSFo4dQ.jpg">
 <p>1.Me firmar como uma desenvolvedora de sucesso; </p>
