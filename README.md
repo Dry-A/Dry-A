@@ -6,18 +6,14 @@
 <br>
 Me formei Desenvolvedora Web em Java pelo bootcamp da <strong>Generation Brasil</strong> em setembro de 2022 e ganhei um bolsa para Java Full-Stack pela Ebac.<br>
 🖐🏼 https://ebaconline.referralrock.com/l/AUDREYALBU25/ <br>
-  Criei algumas comunidades e grupos na área tech, como a Comunidade de alunos da Ebac - que hoje está com 1961 participantes, 26 grupos e 9 super administradores me ajudam nesta tarefa incrível que foi iniciada em janeiro deste ano.<br>
+  Criei duas comunidades e grupos na área tech, Conecta Java e a Comunidade de alunos da Ebac - que tem mais de 2000 participantes, 26 grupos e 9 super administradores, que também são alunos e me ajudam nesta tarefa incrível que foi iniciada em janeiro de 2023.<br>
 Minha formação inicial foi em Marketing e trabalhei por 7 anos na área. <br> 🎈
  Atualmente trabalho na área tech, no Itau. <br>
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
-  Decidi estudar programação em junho de 2022 e foi a melhor decisão que já tomei pois desejava muito entrar para esta área, mas não me via representada.<br>
-  Um curso gratuito que recomendo muito é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br> Finalizei outros cursos na área, como:
-
-<ul><strong> 
-  <li>🛩 One da Oracle e Alura com foco em backend, </li>
-  <li>👩🏻‍🚀 Front-end I e II - Programaria,</li>
-  <li>🚀 Java Fundamentos da Fiap,</li>
-  <li>🏍 Start da Capgemini - Trilha Java,</li>
+  Decidi estudar programação em junho de 2022 e foi a melhor decisão que já tomei pois desejava muito entrar para esta área.<br>
+  Sobre Java, recomendo um curso gratuito que recomendo muito é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br> o qual estou fazendo.
+  Finalizei outros cursos na área de back-end, da Fiap, Programaria, Star da Capgemini, One, da Oracle e Alura, Docker, Javascrit focada em backend e agora estou estudando Python e AWS.
+	
   </strong>
 </ul>
     E aprendi muito mais do que eu acreditava ser possível nesse ano e isso me deixa muito feliz. 
@@ -48,15 +44,21 @@ Minha formação inicial foi em Marketing e trabalhei por 7 anos na área. <br> 
  
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="30" width="40"/>
+ 
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30,5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/> 
+  
+  
+  
     
 </div>
 <br> 
