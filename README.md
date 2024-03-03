@@ -12,8 +12,8 @@ Minha formação inicial foi em Marketing e trabalhei por 7 anos na área. <br> 
  Atualmente trabalho como desenvolvedora, no Itau. <br>
   Faço trabalho voluntário dando aulas de alfabetização e reforço de matemática para crianças de baixa-renda em meu bairro. E amo fazer isso!<br>
   Decidi estudar programação em junho de 2022 e foi a melhor decisão que já tomei pois desejava muito entrar para esta área.<br>
-  Sobre Java, recomendo um curso gratuito que recomendo muito é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br> o qual estou fazendo.
-  Finalizei outros cursos na área de back-end, da Fiap, Programaria, Star da Capgemini, One, da Oracle e Alura, Docker, Javascrit focada em backend e agora estou estudando Python e AWS.
+  Sobre Java, recomendo um curso gratuito que é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br>.
+  Finalizei alguns cursos na área de back-end, da Fiap, Programaria, Star da Capgemini, One, da Oracle e Alura, Docker, Javascrit focada em backend e agora estou estudando Python e AWS.
 	
   </strong>
 </ul>
