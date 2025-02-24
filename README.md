@@ -28,8 +28,10 @@
 
 🌄 Gosto de fazer trilhas, ouvir músicas, ler e meditar
 
+**Quanto mais eu aprendo, mais vejo que não sei quase nada** 🙃
+
 💬 Pergunte-me sobre:
-Java, Spring, Python, SQL, AWS, Análise de Dados
+Java, Spring, SQL, AWS
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="25" height="25"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring" width="25" height="25"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="25" height="25"/> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="25" width="25"/>  
 
 Sempre feliz em ajudar 🙇, especialmente se você está tentando algo novo!
