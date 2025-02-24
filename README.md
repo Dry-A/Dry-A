@@ -16,7 +16,7 @@
 
 🏆 Vencedora do prêmio Tech Girls 2023
 
-💻 Freelancer em TI
+💻 Estagiária Pagbanker - Engenharia de Terminais
 
 👩‍💻 Ex-estagiária de Desenvolvimento @ Itaú
 
